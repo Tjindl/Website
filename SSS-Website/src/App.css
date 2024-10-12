@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+  
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+
+.top-name {
+  font-size: 4em;
+  font-weight: 1;
+  text-emphasis: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: #afa060;
+  margin-top: 2px;
+  
+}
+
+.intro {
+  font-size: 1em;
+  font-weight: 10;
+  text-emphasis: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: #0c7c59;
+  margin-top: 2px;
+}
+

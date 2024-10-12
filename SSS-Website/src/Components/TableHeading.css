@@ -1,0 +1,24 @@
+.table-heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+.heading{
+    font-size: 2em;
+    margin-left: 10px;
+    align-items: center;
+    margin-right: 10px;
+   
+}
+
+
+.table-heading-item {
+    border-left: solid 3px ;
+    border-top: solid 3px ;
+    border-bottom: solid 3px ;
+    border-right: solid 1px ;
+    text-align: center;
+}
+
